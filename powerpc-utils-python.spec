@@ -5,6 +5,7 @@ Version:	1.2.1
 Release:	1
 License:	CPL v1.0
 Group:		Applications/System
+# future releases at https://github.com/nfont/powerpc-utils-python
 Source0:	http://downloads.sourceforge.net/powerpc-utils/%{name}-%{version}.tar.gz
 # Source0-md5:	6b112ab981f2c4af3b452a9fec72d81b
 URL:		http://powerpc-utils.sourceforge.net/
